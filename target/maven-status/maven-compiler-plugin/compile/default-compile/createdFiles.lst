@@ -1,0 +1,5 @@
+com/example/movie/controller/MovieController.class
+com/example/movie/MovieApplication.class
+com/example/movie/model/MovieRowMapper.class
+com/example/movie/model/Movie.class
+com/example/movie/repository/MovieRespository.class
